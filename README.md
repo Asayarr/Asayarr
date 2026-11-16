@@ -7,7 +7,6 @@
   </p>
 </div>
 
-
 <p>
   <samp>
     <a href="https://github.com/Asayarr?tab=repositories">Repos</a> ·
@@ -24,3 +23,8 @@
 
 btw the best interface is the one you stop noticing.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asayarr/Asayarr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asayarr/Asayarr/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Asayarr/Asayarr/output/github-contribution-grid-snake.svg">
+</picture>
